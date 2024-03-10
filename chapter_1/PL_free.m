@@ -1,4 +1,4 @@
-fuction PL=PL_free(fc,d,Gt,Gr)
+function PL=PL_free(fc,d,Gt,Gr)
 % Free space Path Loss Model
 % inputs
 % d: distance between base station and mobile station [m]
