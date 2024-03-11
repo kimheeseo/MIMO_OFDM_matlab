@@ -11,7 +11,7 @@ for k=1:2
     y_MIEEE16dc(k,:)=PL_IEEE80216d(fc,distance,'C',htx(k),hrx(k),'atnt', 'mod');
 end
 
-figure
+
 semilogx(distance,y_IEEE16da(1,:),'k:','linewidth',1.5)
 hold on
 semilogx(distance,y_IEEE16db(1,:),'b:','linewidth',1.5)
