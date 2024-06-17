@@ -1,9 +1,9 @@
-핵심: Fading Channel
-1. Large-scale fading
+## 핵심: Fading Channel
+# 1. Large-scale fading
 1) path loss
 2) shadowing
 
-2. small-scale fading
+# 2. small-scale fading
 1) multi-path fading
 - frequency-selective fading
 - flat fading
